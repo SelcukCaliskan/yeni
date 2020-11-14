@@ -6,7 +6,7 @@ public class Main {
 	System.out.println("GitHub dan değişilik yaptım");
         System.out.println("GitHub dan 2. değişilik yaptım");
 	            System.out.println("GitHub dan 3. değişilik yaptım");
-
+        System.out.println("GitHub dan 4. değişilik yaptım");
 	    
 
     }
